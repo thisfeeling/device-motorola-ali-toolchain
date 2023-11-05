@@ -11,7 +11,10 @@
 
 **Credits & Source**
 
-* [clang](https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+/refs/tags/ndk-r23-beta2)
-* [aarch64](https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/+/refs/tags/android-11.0.0_r48)
-* [arm](https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/+/refs/tags/android-11.0.0_r48)
+* [clang](https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/f8e856556909898bd35ee8eae829437721b5a3db/clang-r353983e.tar.gz
+)
+* [aarch64](https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/+archive/refs/heads/pie-release.tar.gz
+)
+* [arm](https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/+archive/refs/heads/pie-release.tar.gz
+)
 * [gnu](https://github.com/theradcolor/aarch64-linux-gnu)
