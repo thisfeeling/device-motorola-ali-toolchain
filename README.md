@@ -7,6 +7,8 @@
 | `arm-linux-androideabi` | `KERNEL_TOOLCHAIN_ARM32`   |
 | `aarch64-linux-android` | `KERNEL_TOOLCHAIN_AARCH64` |
 | `aarch64-linux-gnu`     | `KERNEL_TOOLCHAIN`         |
+|              COMPATIBLE CLANG VERSIONS               |
+| ----------------------- | -------------------------- |
 | `clang-r353983e`        | `Clang Version 9.0.5`      |
 | `clang-r365631c`        | `Clang Version 9.0.8`      |
 
