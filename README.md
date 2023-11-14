@@ -10,10 +10,10 @@
 
 **Table of Clang**
 
-|              COMPATIBLE CLANG VERSIONS               |
-| ----------------------- | -------------------------- |
-| `clang-r353983e`        | `Clang Version 9.0.5`      |
-| `clang-r365631c`        | `Clang Version 9.0.8`      |
+**COMPATIBLE CLANG VERSIONS**                  
+
+clang-r353983e  -  Clang Version 9.0.5      
+clang-r365631c  -  Clang Version 9.0.8     
 
 **Credits & Source**
 
