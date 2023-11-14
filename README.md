@@ -1,12 +1,15 @@
 # `Toolchain` Aarch64, Arm & CLANG
 
-**Table of Contents**
+**Table of Toolchains**
 
 | Name                    | Description                |
 | ----------------------- | -------------------------- |
 | `arm-linux-androideabi` | `KERNEL_TOOLCHAIN_ARM32`   |
 | `aarch64-linux-android` | `KERNEL_TOOLCHAIN_AARCH64` |
 | `aarch64-linux-gnu`     | `KERNEL_TOOLCHAIN`         |
+
+**Table of Clang**
+
 |              COMPATIBLE CLANG VERSIONS               |
 | ----------------------- | -------------------------- |
 | `clang-r353983e`        | `Clang Version 9.0.5`      |
