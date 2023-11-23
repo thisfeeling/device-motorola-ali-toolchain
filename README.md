@@ -12,7 +12,7 @@
 
 clang-r353983e  -  Clang Version 9.0.5       
 
-**source.sh & kyliz_script **     
+**source.sh & kyliz_script**     
 
 * [kyliz_script](https://github.com/thisfeeling/kyliz_script)
 
