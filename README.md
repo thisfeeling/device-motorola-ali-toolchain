@@ -12,7 +12,7 @@
 
 **COMPATIBLE CLANG VERSIONS**                  
 
-clang-r416183b1  -  Clang Version 12.0.7      
+**clang-r416183b1 - Clang Version 12.0.7**      
 
 **source.sh & kyliz_script**     
 
